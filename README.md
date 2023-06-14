@@ -21,18 +21,18 @@
 - [Caixa Organizadora:]()
 
     
-|  Produto |  Quantidade |  Valor | Loja  |   |
-|---|---|---|---|---|
-|Aptador|   |   |   |   |
-|Filtro de Linha|   |   |   |   |
-|Pasta Termica|   |   |   |   |
-|Alcool Isopropilico|   |   |   |   |
-|Kit Pincel Antiestatico|   |   |   |   |
+|  Produto |  Quantidade |  Valor | Loja  |   
+|---|---|---|---|
+|Aptador|   |   |   |   
+|Filtro de Linha|   |   |   |   
+|Pasta Termica|   |   |   |   
+|Alcool Isopropilico|   |   |   |   
+|Kit Pincel Antiestatico|   |   |   |   
 |Limpa Contato|   |   |   |   |
-|Aptador de Tomada|   |   |   |   |
+|Aptador de Tomada|   |   |   |   
 |Estilete|   |   |   |   |
-|Chave Philips|   |   |   |   |
+|Chave Philips|   |   |   |   
 |Pano|   |   |   |   |
 |Pendrive 8GB|   |   |   |   |
-|Caixa Organizadora|   |   |   |   |
+|Caixa Organizadora|   |   |   |   
  
