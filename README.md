@@ -13,9 +13,26 @@
 - [Alcool Isopropilico:]()
 - [Kit pincel Antiestatico:]()
 - [Limpa contato:]()
-- [Adptador de Toma:]()
+- [Adptador de Tomada:]()
 - [Estilete:]()
 - [Chave philips:]()
 - [Pano:]()
 - [Pendrive 8Gb:]()
 - [Caixa Organizadora:]()
+
+    
+|  Produto |  Quantidade |  Valor | Loja  |   |
+|---|---|---|---|---|
+|Aptador|   |   |   |   |
+|Filtro de Linha|   |   |   |   |
+|Pasta Termica|   |   |   |   |
+|Alcool Isopropilico|   |   |   |   |
+|Kit Pincel Antiestatico|   |   |   |   |
+|Limpa Contato|   |   |   |   |
+|Aptador de Tomada|   |   |   |   |
+|Estilete|   |   |   |   |
+|Chave Philips|   |   |   |   |
+|Pano|   |   |   |   |
+|Pendrive 8GB|   |   |   |   |
+|Caixa Organizadora|   |   |   |   |
+ 
