@@ -1,4 +1,4 @@
-# Trabalho Extensão.
+# Montagem do laboratório 
 
 ### Dia 19/06
 - Teste de Hardware.
@@ -6,8 +6,16 @@
 ## Grupo G3.
 > Daniel, Carlos , Joana , Pablo , Rafael
 
-# Passos a seguir.
-- 1 Primeiro passo a ser tomado.
-- 2 Segundo passo a ser tomado.
-- 3 Terceiro passo a ser tomado.
-- 4 Quarto passo a ser tomado.
+# Itens necessarios para a sala.
+- Adptador Usb para Ps2 Hedmax.
+- Filtro de Linha.
+- Pasta Termica.
+- Alcool Isopropilico.
+- Kit pincel Antiestatico.
+- Limpa contato.
+- Adptador de Toma.
+- Estilete.
+- Chave philips.
+- Pano.
+- Pendrive 8Gb.
+- Caixa Organizadora.
