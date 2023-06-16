@@ -22,6 +22,7 @@
 - [Caixa Organizadora:](https://www.magazineluiza.com.br/caixa-organizadora-container-56-litros-c-tampa-e-trava-preta-25793pm-arqplast/p/gc71kad67j/ud/udcx/)
 - [Alicate de corte:](https://www.usinainfo.com.br/alicate-de-corte-diagonal/alicate-de-corte-diagonal-45-115mm-21a504-hikari-2135.html?search_query=alicate+de+corte&results=25)
 - [Abraçadeira de Nylon:](https://www.usinainfo.com.br/parafusos-e-espacadores/abracadeira-de-nylon-25x100mm-preta-kit-com-100-unidades-3312.html?search_query=Abracadeira+de+Nylon&results=14)
+- [Lençol em Borracha Comum S/ Lona:]([https://www.usinainfo.com.br/parafusos-e-espacadores/abracadeira-de-nylon-25x100mm-preta-kit-com-100-unidades-3312.html?search_query=Abracadeira+de+Nylon&results=14](https://reweflon.com.br/produtos/detalhes/lencol-em-borracha-comum-s-lona/))
     
 |  Produto |  Quantidade |  Valor | Loja  |   
 |---|---|---|---|
@@ -39,5 +40,6 @@
 |Caixa Organizadora|5|R$ 39,51|magazineluiza|
 |Alicate de Corte|20|R$ 23,66|Usinainfo|
 |Abraçadeira de Nylon|10|R$ 5,61|Usinainfo|
+|Lençol em Borracha|s/|s/|reweflon.|
 |Valor total:|R$3.617,24.||
  
