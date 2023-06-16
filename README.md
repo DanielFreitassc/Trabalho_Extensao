@@ -40,6 +40,6 @@
 |Caixa Organizadora|5|R$ 39,51|magazineluiza|
 |Alicate de Corte|20|R$ 23,66|Usinainfo|
 |Abraçadeira de Nylon|10|R$ 5,61|Usinainfo|
-|Lençol em Borracha|s/|s/|reweflon.|
+|Lençol em Borracha|s/|s/|Reweflon.|
 |Valor total:|R$3.617,24.||
  
