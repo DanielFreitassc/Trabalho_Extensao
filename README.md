@@ -5,6 +5,17 @@
 - Manutenção e Organização.
 ## Grupo G3.
 > Daniel, Carlos , Joana , Pablo , Rafael
+## Passos tomados para montagem do laboratorio.
+1. Primeiro cada grupo fez um layout, e o escolhido pelo professor foi o do grupo 4.
+mesa em formato de "C"
+3. Foi criado uma planilha com oque seria necessario para criar uma sala de hardware.
+4.Depois foi iniciado o processo de oranização  
+5. Foi removido os parafusos de fixação das mesas no chão.
+6. Foi removido da parede os equipamentos anteriormente instalados como câmereas dentre outros.
+7. 
+8. 
+
+
 
 # Itens necessarios para a sala.
 -  [Adptador Usb para Ps2 :](https://www.amazon.com.br/Cabo-Adaptador-PS2-Femea-Macho/dp/B0754GRRV6/ref=asc_df_B0754GRRV6/?tag=googleshopp00-20&linkCode=df0&hvadid=435638816339&hvpos=&hvnetw=g&hvrand=9465232176638773360&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102289&hvtargid=pla-907565750325&psc=1) 
