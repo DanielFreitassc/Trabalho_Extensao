@@ -9,11 +9,11 @@
 1. Primeiro cada grupo fez um layout, e o escolhido pelo professor foi o do grupo 4.
 mesa em formato de "C"
 3. Foi criado uma planilha com oque seria necessario para criar uma sala de hardware.
-4.Depois foi iniciado o processo de oranização  
+4. Depois foi iniciado o processo de oranização  
 5. Foi removido os parafusos de fixação das mesas no chão.
 6. Foi removido da parede os equipamentos anteriormente instalados como câmereas dentre outros.
-7. 
-8. 
+7. Em seguida as equipes testaram os computadores e arrumaram oque deu.
+8. E montaram dois pc por mesa, obs... Alguns pc não deram vídeo.
 
 
 
@@ -48,7 +48,7 @@ mesa em formato de "C"
 |Jogo de Chaves|10|R$69,90 |lojadomecanico|   
 |Pano|2|R$ 89,00|magazineluiza|
 |Pendrive 8GB|20|R$ 25,00|magazineluiza|   
-|Caixa Organizadora|5|R$ 39,51|magazineluiza|
+|Caixa Organizadora|2|R$ 39,51|magazineluiza|
 |Alicate de Corte|20|R$ 23,66|Usinainfo|
 |Abraçadeira de Nylon|10|R$ 5,61|Usinainfo|
 |Lençol em Borracha|s/|s/|Reweflon.|
