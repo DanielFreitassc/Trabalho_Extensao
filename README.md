@@ -1,4 +1,5 @@
-# <span style="color: #8cff9e;">Montagem do Laboratório</span>
+# Montagem do Laboratório {.text-green-light}
+
 
 
 ### Dia 19/06
