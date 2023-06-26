@@ -12,7 +12,7 @@
 - Planta Escolhida Grupo 4: [Planta Grupo 4.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875138/Planta.Grupo.4.pdf)
 
 
-2. Foi criado uma planilha com oque seria necessario para criar uma sala de hardware.
+2. Foi criado uma [Planilha](Planilha) com oque seria necessario para criar uma sala de hardware.
 3. Depois foi iniciado o processo de oranização  
 4. Foi removido os parafusos de fixação das mesas no chão.
 5. Foi removido da parede os equipamentos anteriormente instalados como câmereas dentre outros.
@@ -46,7 +46,8 @@
 - [Alicate de corte:](https://www.usinainfo.com.br/alicate-de-corte-diagonal/alicate-de-corte-diagonal-45-115mm-21a504-hikari-2135.html?search_query=alicate+de+corte&results=25)
 - [Abraçadeira de Nylon:](https://www.usinainfo.com.br/parafusos-e-espacadores/abracadeira-de-nylon-25x100mm-preta-kit-com-100-unidades-3312.html?search_query=Abracadeira+de+Nylon&results=14)
 - [Lençol em Borracha Comum S/ Lona:](https://reweflon.com.br/produtos/detalhes/lencol-em-borracha-comum-s-lona/)
-    
+ 
+ # Planilha   
 |  Produto |  Quantidade |  Valor | Loja  |   
 |---|---|---|---|
 |Aptador|20|R$18,76|amazon|   
