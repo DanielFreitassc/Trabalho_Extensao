@@ -6,6 +6,7 @@
 ## Grupo G3.
 > Daniel, Carlos , Joana , Pablo , Rafael
 ## Passos tomados para montagem do laboratorio.
+### Montagem do laboratório para disciplina de HArdware e praticas de Engenharia
 1. Primeiro cada grupo fez um layout, e o escolhido pelo professor foi o do grupo 4.
 mesa em formato de "C"
 3. Foi criado uma planilha com oque seria necessario para criar uma sala de hardware.
@@ -14,6 +15,14 @@ mesa em formato de "C"
 6. Foi removido da parede os equipamentos anteriormente instalados como câmereas dentre outros.
 7. Em seguida as equipes testaram os computadores e arrumaram oque deu.
 8. E montaram dois pc por mesa, obs... Alguns pc não deram vídeo.
+9. Em seguida foi feito *Multiboot* com dois *OS*, Mint OS e win 7.
+    ### Passos para Criar um *Multiboot*
+   - Primeiro Baixar um software para criar um pendrive bootavel.
+   - baixar a *ISO* do sistemas operacionais desejados.
+   - Com o pendrive bootavel selecionar ordem de boot na *BIOS* ao ligar o pc.
+   - Fazer a instalação de um dos sistemas.
+   - Criar duas partições no HD, em uma partição vai o win 7 na outra o Mint OS.
+   - fazer a instalação do outro sistema.
 
 
 
