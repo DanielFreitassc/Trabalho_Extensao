@@ -7,24 +7,18 @@
 > Daniel, Carlos , Joana , Pablo , Rafael
 ## Passos tomados para montagem do laboratorio.
 ### Montagem do laboratório para disciplina de HArdware e praticas de Engenharia
-1. Primeiro cada grupo fez um layout, e o escolhido pelo professor foi o do grupo 4.
+1. Primeiro cada grupo fez um layout, e o escolhido pelo professor foi o do grupo 4 mesa em formato de "C".
 - Nossa Planta: [Planta Baixa Grupo 3.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875119/Planta.Baixa.Grupo.3.pdf)
 - Planta Escolhida Grupo 4: [Planta Grupo 4.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875138/Planta.Grupo.4.pdf)
 
 
-
-
-
-
-
-mesa em formato de "C"
-3. Foi criado uma planilha com oque seria necessario para criar uma sala de hardware.
-4. Depois foi iniciado o processo de oranização  
-5. Foi removido os parafusos de fixação das mesas no chão.
-6. Foi removido da parede os equipamentos anteriormente instalados como câmereas dentre outros.
-7. Em seguida as equipes testaram os computadores e arrumaram oque deu.
-8. E montaram dois pc por mesa, obs... Alguns pc não deram vídeo.
-9. Em seguida foi feito *Multiboot* com dois *OS*, Mint OS e win 7.
+2. Foi criado uma planilha com oque seria necessario para criar uma sala de hardware.
+3. Depois foi iniciado o processo de oranização  
+4. Foi removido os parafusos de fixação das mesas no chão.
+5. Foi removido da parede os equipamentos anteriormente instalados como câmereas dentre outros.
+6. Em seguida as equipes testaram os computadores e arrumaram oque deu.
+7. E montaram dois pc por mesa, obs... Alguns pc não deram vídeo.
+8. Em seguida foi feito *Multiboot* com dois *OS*, Mint OS e win 7.
     ### Passos para Criar um *Multiboot*
    - Primeiro Baixar um software para criar um pendrive bootavel.
    - baixar a *ISO* do sistemas operacionais desejados.
