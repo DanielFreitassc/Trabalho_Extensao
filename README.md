@@ -1,14 +1,15 @@
 <div align="center">
-    <h1 style="color: #ff00ff; font-size: 48px; font-weight: bold; text-shadow: 2px 2px 4px #000000;">Montagem do Laboratório</h1>
+    <h1 style="font-size: 32px;">🔬 Montagem do Laboratório ⚙️💻</h1>
 </div>
 
 
+<div align="center">
+    <h3 style="font-size: 24px; color: #ffcc00;">📅 Dia 19/06 🌞</h3>
+</div>
 
+- 🖥️ Teste de Hardware
+- 🧹 Manutenção e Organização
 
-
-### Dia 19/06
-- Teste de Hardware.
-- Manutenção e Organização.
 ## Grupo G3.
 > Daniel, Carlos , Joana , Pablo , Rafael
 ## Passos tomados para montagem do laboratorio.
