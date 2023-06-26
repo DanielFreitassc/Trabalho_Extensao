@@ -20,13 +20,13 @@
 
 2. Foi criado uma [planilha](#Planilha) com oque seria [necessario](#Itens-necessarios-para-a-sala) para criar uma sala de hardware.
 3. Depois foi iniciado o processo de oranização  
-- [sala.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875239/sala.pdf)
+![org4](https://github.com/DanielFreitassc/Trabalho_Extensao/assets/129224303/51494dc3-1241-4bf0-b2a2-bfb8078b3f97)
 4. Foi removido os parafusos de fixação das mesas no chão.
-- [Parfusos.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875244/Parfusos.pdf)
+![org3](https://github.com/DanielFreitassc/Trabalho_Extensao/assets/129224303/f4eafdec-b81b-4c6f-83af-d01ac452bedd)
 5. Foi removido da parede os equipamentos anteriormente instalados como câmereas dentre outros.
-- [Parede.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875247/Parede.pdf)
+![org1](https://github.com/DanielFreitassc/Trabalho_Extensao/assets/129224303/d2b56c0d-9803-44a0-ba94-432979c39eee)
 6. Em seguida as equipes testaram os computadores e arrumaram oque deu.
-- [computadores.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875248/computadores.pdf)
+![org2](https://github.com/DanielFreitassc/Trabalho_Extensao/assets/129224303/a681681d-fdae-4b36-95b1-b2badd8b48eb)
 7. E montaram dois pc por mesa, obs... Alguns pc não deram vídeo.
 8. Em seguida foi feito *Multiboot* com dois *OS*, Mint OS e win 7.
     ### Passos para Criar um *Multiboot*
