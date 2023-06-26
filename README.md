@@ -11,7 +11,7 @@
 - Nossa Planta: [Planta Baixa Grupo 3.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875119/Planta.Baixa.Grupo.3.pdf)
 - Planta Escolhida Grupo 4: [Planta Grupo 4.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875138/Planta.Grupo.4.pdf)
 
-2. Foi criado uma [Planilha](#Planilha) com oque seria [necessario](#Itens necessarios para a sala) para criar uma sala de hardware.
+2. Foi criado uma [planilha](#Planilha) com oque seria [necessario](Itens necessarios para a sala) para criar uma sala de hardware.
 3. Depois foi iniciado o processo de oranização  
 - [Organização da sala.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875223/Organizacao.da.sala.pdf)
 4. Foi removido os parafusos de fixação das mesas no chão.
