@@ -13,20 +13,28 @@
 ## Grupo G3.
 > Daniel, Carlos , Joana , Pablo , Rafael
 ## Passos tomados para montagem do laboratorio.
-### Montagem do laboratório para disciplina de HArdware e praticas de Engenharia
+### Montagem do laboratório para disciplina de Hardware e praticas de Engenharia
 1. Primeiro cada grupo fez um layout, e o escolhido pelo professor foi o do grupo 4 mesa em formato de "C".
 - Nossa Planta: ![Planta Baixa Grupo 3_page-0001](https://github.com/DanielFreitassc/Trabalho_Extensao/assets/129224303/85601cf8-5c12-450f-9256-235327e23e49)
 - Planta Escolhida Grupo 4: ![Planta Grupo 4](https://github.com/DanielFreitassc/Trabalho_Extensao/assets/129224303/e1c14e46-a890-43db-be1f-274c450b2cb5)
+---
 2. Foi criado uma [planilha](#Planilha) com oque seria [necessario](#Itens-necessarios-para-a-sala) para criar uma sala de hardware.
+---
 3. Depois foi iniciado o processo de oranização  
 ![org4](https://github.com/DanielFreitassc/Trabalho_Extensao/assets/129224303/51494dc3-1241-4bf0-b2a2-bfb8078b3f97)
+---
 4. Foi removido os parafusos de fixação das mesas no chão.
 ![org3](https://github.com/DanielFreitassc/Trabalho_Extensao/assets/129224303/f4eafdec-b81b-4c6f-83af-d01ac452bedd)
+---
 5. Foi removido da parede os equipamentos anteriormente instalados como câmereas dentre outros.
 ![org1](https://github.com/DanielFreitassc/Trabalho_Extensao/assets/129224303/d2b56c0d-9803-44a0-ba94-432979c39eee)
+---
 6. Em seguida as equipes testaram os computadores e arrumaram oque deu.
 ![org2](https://github.com/DanielFreitassc/Trabalho_Extensao/assets/129224303/a681681d-fdae-4b36-95b1-b2badd8b48eb)
+---
 7. E montaram dois pc por mesa, obs... Alguns pc não deram vídeo.
+![org5](https://github.com/DanielFreitassc/Trabalho_Extensao/assets/129224303/693c8798-c985-46d9-a230-c4b84aa3a035)
+---
 8. Em seguida foi feito *Multiboot* com dois *OS*, Mint OS e win 7.
     ### Passos para Criar um *Multiboot*
    - Primeiro Baixar um software para criar um pendrive bootavel.
