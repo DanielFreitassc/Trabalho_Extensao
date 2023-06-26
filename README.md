@@ -11,7 +11,7 @@
 - Nossa Planta: [Planta Baixa Grupo 3.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875119/Planta.Baixa.Grupo.3.pdf)
 - Planta Escolhida Grupo 4: [Planta Grupo 4.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875138/Planta.Grupo.4.pdf)
 
-2. Foi criado uma [Planilha](#Planilha) com oque seria [necessario](#Itens necessarios para a sala.) para criar uma sala de hardware.
+2. Foi criado uma [Planilha](#Planilha) com oque seria [necessario](#Itens necessarios para a sala) para criar uma sala de hardware.
 3. Depois foi iniciado o processo de oranização  
 - [Organização da sala.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875223/Organizacao.da.sala.pdf)
 4. Foi removido os parafusos de fixação das mesas no chão.
@@ -29,7 +29,7 @@
 
 
 
-# Itens necessarios para a sala.
+# Itens necessarios para a sala
 -  [Adptador Usb para Ps2 :](https://www.amazon.com.br/Cabo-Adaptador-PS2-Femea-Macho/dp/B0754GRRV6/ref=asc_df_B0754GRRV6/?tag=googleshopp00-20&linkCode=df0&hvadid=435638816339&hvpos=&hvnetw=g&hvrand=9465232176638773360&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102289&hvtargid=pla-907565750325&psc=1) 
 -  [Filtro de Linha:](https://www.kabum.com.br/produto/241782/filtro-de-linha-slim-force-line-5-tomadas-bivolt-preto-0060500016?gclid=CjwKCAjwyqWkBhBMEiwAp2yUFjc88UFJP4SLKg-THR8MpYUC-tOAC8ovu652NZi5SCK8LcM_EfZ9CxoCGvUQAvD_BwE)
 - [Pasta Termica:](https://www.kabum.com.br/produto/127364/pasta-termica-implastec-pote-com-50g)
