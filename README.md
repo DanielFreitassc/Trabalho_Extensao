@@ -8,6 +8,15 @@
 ## Passos tomados para montagem do laboratorio.
 ### Montagem do laboratório para disciplina de HArdware e praticas de Engenharia
 1. Primeiro cada grupo fez um layout, e o escolhido pelo professor foi o do grupo 4.
+- Nossa Planta: [Planta Baixa Grupo 3.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875119/Planta.Baixa.Grupo.3.pdf)
+- Planta Escolhida Grupo 4: [Planta Grupo 4.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875138/Planta.Grupo.4.pdf)
+
+
+
+
+
+
+
 mesa em formato de "C"
 3. Foi criado uma planilha com oque seria necessario para criar uma sala de hardware.
 4. Depois foi iniciado o processo de oranização  
