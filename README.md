@@ -1,4 +1,4 @@
-# Montagem do Laboratório {.text-green-light}
+# Montagem do Laboratório 
 
 
 
