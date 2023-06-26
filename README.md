@@ -1,5 +1,6 @@
-Montagem do Laboratório
-======================
+<div align="center">
+    <h1 style="color: #ff00ff; font-size: 48px; font-weight: bold; text-shadow: 2px 2px 4px #000000;">Montagem do Laboratório</h1>
+</div>
 
 
 
