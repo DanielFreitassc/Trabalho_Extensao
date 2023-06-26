@@ -12,7 +12,7 @@
 - Planta Escolhida Grupo 4: [Planta Grupo 4.pdf](https://github.com/DanielFreitassc/Trabalho_Extensao/files/11875138/Planta.Grupo.4.pdf)
 
 
-2. Foi criado uma [Planilha](Planilha) com oque seria necessario para criar uma sala de hardware.
+2. Foi criado uma [Planilha](#Planilha) com oque seria necessario para criar uma sala de hardware.
 3. Depois foi iniciado o processo de oranização  
 4. Foi removido os parafusos de fixação das mesas no chão.
 5. Foi removido da parede os equipamentos anteriormente instalados como câmereas dentre outros.
